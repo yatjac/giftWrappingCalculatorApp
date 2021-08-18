@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gift Wrapping Service Exam1</string>
+    <string-array name="txtgroup">
+        <item>LaFoe</item>
+        <item>Charles</item>
+        <item>Lee</item>
+    </string-array>
+</resources>
